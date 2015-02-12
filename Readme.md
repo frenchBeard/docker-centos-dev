@@ -7,6 +7,6 @@ Contains up-to-date repository (iuscommunity) for development packages, as well 
 
 to create the image :
 ```
-docker build -t $USER/docker-centos-dev .
+docker build -t $USER/centos-dev .
 ```
 
